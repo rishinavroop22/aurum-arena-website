@@ -15,7 +15,7 @@ const features = [
   { icon: Users, title: 'Participation & bracket management' },
   { icon: BarChart3, title: 'Leaderboard tracking' },
   { icon: Zap, title: 'On-ground coordination' },
-  { icon: Handshake, title: 'Vendor coordination' },
+  { icon: HandHelping, title: 'Vendor coordination' },
   { icon: Play, title: 'Match flow management' },
   { icon: Trophy, title: 'Final ceremony coordination' },
 ];
