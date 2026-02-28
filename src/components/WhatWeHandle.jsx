@@ -4,7 +4,7 @@ import {
   Users,
   BarChart3,
   Zap,
-  HandHelping,
+  Hand,
   Play,
   Trophy
 } from 'lucide-react';
@@ -15,7 +15,7 @@ const features = [
   { icon: Users, title: 'Participation & bracket management' },
   { icon: BarChart3, title: 'Leaderboard tracking' },
   { icon: Zap, title: 'On-ground coordination' },
-  { icon: HandHelping, title: 'Vendor coordination' },
+  { icon: Hand, title: 'Vendor coordination' },
   { icon: Play, title: 'Match flow management' },
   { icon: Trophy, title: 'Final ceremony coordination' },
 ];
