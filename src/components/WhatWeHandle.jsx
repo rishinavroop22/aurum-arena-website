@@ -4,7 +4,7 @@ import {
   Users,
   BarChart3,
   Zap,
-  Handshake,
+  HandHelping,
   Play,
   Trophy
 } from 'lucide-react';
