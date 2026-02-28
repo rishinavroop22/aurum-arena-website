@@ -62,12 +62,10 @@ export const Hero = () => {
               {/* Sports themed illustration background */}
               <div className="absolute inset-0 flex items-center justify-center">
                 <div className="relative w-full h-full flex items-center justify-center">
-                  <svg className="w-full h-full opacity-40 group-hover:opacity-60 transition-opacity" viewBox="0 0 400 400" fill="none">
-                    <circle cx="200" cy="200" r="150" stroke="#f59e0b" strokeWidth="2" strokeDasharray="10,5" />
-                    <circle cx="200" cy="200" r="120" stroke="#f59e0b" strokeWidth="1" opacity="0.5" />
-                    <line x1="200" y1="50" x2="200" y2="350" stroke="#f59e0b" strokeWidth="1" opacity="0.3" />
-                    <line x1="50" y1="200" x2="350" y2="200" stroke="#f59e0b" strokeWidth="1" opacity="0.3" />
-                    <circle cx="200" cy="200" r="80" fill="none" stroke="#fbbf24" strokeWidth="1" opacity="0.2" />
+                  <svg className="w-full h-full opacity-40 group-hover:opacity-60 transition-opacity" viewBox="0 0 400 400" fill="none" role="img" aria-label="Aurum Arena logo">
+                    <title>Aurum Arena Logo</title>
+                    <text x="200" y="220" textAnchor="middle" fontFamily="serif" fontWeight="bold" fontSize="130" fill="#f59e0b" letterSpacing="-4">AD</text>
+                    <text x="200" y="270" textAnchor="middle" fontFamily="sans-serif" fontWeight="600" fontSize="28" fill="#f59e0b" letterSpacing="8">AURUM ARENA</text>
                   </svg>
                 </div>
               </div>
