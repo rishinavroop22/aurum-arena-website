@@ -4,4 +4,4 @@ import { About } from './components/About';
 import { HowItWorks } from './components/HowItWorks';
 import { EngagementFormats } from './components/EngagementFormats';
 import { WhatWeHandle } from './components/WhatWeHandle';
-import { WhyPartnerWithUs }
+import { WhyPartnerWithUs } from './components/WhyPartnerWithUs';
